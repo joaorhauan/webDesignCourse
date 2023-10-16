@@ -1,0 +1,20 @@
+:root{
+    --pink-10: #F67ACB;
+    --pink-20: #CF62A9;
+    --pink-30: #9D457F;
+
+    --gray-100: #F5F6FA;
+    --gray-200: #DFE1E8;
+    --gray-300: #C0C3CC;
+    --gray-400: #ABAFBA;
+    --gray-500: #979BA6;
+    --gray-600: #787C87;
+    --gray-700: #5C5F69;
+    --gray-800: #393B42;
+    --gray-900: #0A0B0D;
+}
+
+.gray-color-100{color: var(--gray-100);}
+.gray-color-300{color: var(--gray-300);}
+.gray-color-600{color: var(--gray-600);}
+.gray-color-900{color: var(--gray-900);}
